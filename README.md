@@ -1,3 +1,4 @@
+<img width="1920" height="854" alt="Screenshot 2026-09-19 223618" src="https://github.com/user-attachments/assets/2ae7521d-c4c5-4653-961d-231ebe28e71e" />
 # AI-Ticket-Assistant - ChaiCode
 
 Welcome to the AI-Powered Ticket Management System!
