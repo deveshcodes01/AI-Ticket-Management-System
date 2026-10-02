@@ -7,7 +7,10 @@ import ticketRoutes from "./routes/ticket.js";
 import { inngest } from "./inngest/client.js";
 import { onUserSignup } from "./inngest/functions/on-signup.js";
 import { onTicketCreated } from "./inngest/functions/on-ticket-create.js";
+import {dns} from "dns";
+const dns = require("dns");
 
+dns.setServers(["8.8.8.8", "1.1.1.1"]);
 import dotenv from "dotenv";
 dotenv.config();
 
